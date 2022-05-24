@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90f4e3f8-0d56-4125-992c-2c9ab41df9c3": {
+      "ProjectGuid": "90f4e3f8-0d56-4125-992c-2c9ab41df9c3",
+      "DisplayName": "Vigenere",
+      "ColorIndex": 0
+    },
+    "210a55cb-f50a-4d05-939c-97ecc3af1db4": {
+      "ProjectGuid": "210a55cb-f50a-4d05-939c-97ecc3af1db4",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

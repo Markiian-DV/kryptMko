@@ -1,0 +1,21 @@
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\bin\Debug\Caesar.exe.config
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\bin\Debug\Caesar.exe
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\bin\Debug\Caesar.pdb
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\obj\Debug\Caesar.AboutBox.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\obj\Debug\Caesar.VigenereForm.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\obj\Debug\Caesar.Properties.Resources.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.cache
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\obj\Debug\Caesar.exe
+D:\Shared\Student\3 курс\Математичні основи криптології\Vigenere\obj\Debug\Caesar.pdb
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\bin\Debug\Caesar.exe.config
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\bin\Debug\Caesar.exe
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\bin\Debug\Caesar.pdb
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\obj\Debug\Vigenere.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\obj\Debug\Caesar.VigenereForm.resources
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\obj\Debug\Caesar.Properties.Resources.resources
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\obj\Debug\Caesar.exe
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Vigenere\obj\Debug\Caesar.pdb

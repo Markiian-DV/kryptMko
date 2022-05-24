@@ -1,0 +1,26 @@
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\bin\Debug\Caesar.exe.config
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\bin\Debug\Caesar.exe
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\bin\Debug\Caesar.pdb
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.csprojAssemblyReference.cache
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.AboutBox.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.CaesarForm.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.Properties.Resources.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.csproj.GenerateResource.cache
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.exe
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.pdb
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.FrequenceTableBox.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.AttackBox.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\Caesar\obj\Debug\Caesar.csproj.CoreCompileInputs.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\bin\Debug\Caesar.exe.config
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\bin\Debug\Caesar.exe
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\bin\Debug\Caesar.pdb
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.csproj.AssemblyReference.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.AttackBox.resources
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.CaesarForm.resources
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.FrequenceTableBox.resources
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.Properties.Resources.resources
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.csproj.GenerateResource.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.csproj.CoreCompileInputs.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.exe
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\Caesar\obj\Debug\Caesar.pdb

@@ -1,0 +1,22 @@
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\obj\Debug\XOR.csprojAssemblyReference.cache
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\obj\Debug\Caesar.AboutBox.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\obj\Debug\Caesar.XORForm.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\obj\Debug\Caesar.Properties.Resources.resources
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\obj\Debug\XOR.csproj.GenerateResource.cache
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\obj\Debug\XOR.csproj.CoreCompileInputs.cache
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\obj\Debug\Caesar.exe
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\obj\Debug\Caesar.pdb
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\bin\Debug\Caesar.exe.config
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\bin\Debug\Caesar.exe
+D:\Shared\Student\3 курс\Математичні основи криптології\XOR\bin\Debug\Caesar.pdb
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\bin\Debug\Caesar.exe.config
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\bin\Debug\Caesar.exe
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\bin\Debug\Caesar.pdb
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\obj\Debug\XOR.csproj.AssemblyReference.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\obj\Debug\XOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\obj\Debug\Caesar.XORForm.resources
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\obj\Debug\Caesar.Properties.Resources.resources
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\obj\Debug\XOR.csproj.GenerateResource.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\obj\Debug\XOR.csproj.CoreCompileInputs.cache
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\obj\Debug\Caesar.exe
+C:\Users\mdovhan\university\krypt\Математичні основи криптології\XOR\obj\Debug\Caesar.pdb
